@@ -1,0 +1,4 @@
+verde claro: #96cc7f
+verde escuro: #669E4F
+amarelo: #F7D881
+preto branco hehe
